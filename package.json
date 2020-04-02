@@ -1,0 +1,24 @@
+{
+  "name": "starter-scss",
+  "version": "1.0.0",
+  "description": "Generic starter scss files with commonly used utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "starter"
+  ],
+  "author": {
+    "name": "José María García Espada",
+    "email": "chemagares@gmail.com",
+    "url": "https://github.com/chemagares"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^4.2.3",
+    "prettier": "2.0.2"
+  }
+}
